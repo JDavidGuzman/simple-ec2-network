@@ -1,0 +1,1 @@
+Terraform configuration files for launching Amazon Linux 2 EC2 instances on its own network. Security group allows traffic for downloads, SSH and Prometheus scraping.
